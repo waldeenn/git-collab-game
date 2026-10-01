@@ -2,4 +2,4 @@
 
 Odpowiedzialny: NIEPRZYDZIELONY
 Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Opis zmiany: PO EDYTOWANIU
